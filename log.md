@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-# Day 1: June 25, 2018
+## Day 1: June 25, 2018
 **Today's Progress**: Worked on JSON APIs in FCC, enjoyed it.  
 
 **Thoughts:** Nothing at the moment, no struggles yet.
